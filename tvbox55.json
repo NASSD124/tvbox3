@@ -1,0 +1,21 @@
+{
+  "wallpaper": "https://wp.upx8.com/api.php",
+  "sites": [
+    {
+      "key": "netflixgc",
+      "name": "奈飞工厂",
+      "type": 2,
+      "api": "http://192.168.5.19:8000/api",
+      "searchable": 1,
+      "quickSearch": 1
+    }
+  ],
+  "lives": [
+    {
+      "name": "BMCH",
+      "type": "0",
+      "pass": true,
+      "url": "https://gh.halonice.com/https:/raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u"
+    }
+  ]
+}
