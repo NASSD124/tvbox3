@@ -4,10 +4,10 @@
     {
       "key": "netflixgc",
       "name": "奈飞工厂",
-      "type": 2,
-      "api": "http://192.168.5.19:8000/api",
+      "type": 1,
+      "api": "http://192.168.5.19:8000/api.php/provide/vod",
       "searchable": 1,
-      "quickSearch": 1
+      "changeable": 1
     }
   ],
   "lives": [
@@ -19,3 +19,4 @@
     }
   ]
 }
+
