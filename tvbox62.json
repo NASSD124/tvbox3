@@ -6,7 +6,7 @@
       "key": "netflixgc",
       "name": "奈飞工厂",
       "type": 2,
-      "api": "http://192.168.5.19:8000/api",
+      "api": "http://192.168.5.3:8000/api",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
