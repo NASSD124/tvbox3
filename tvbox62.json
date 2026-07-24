@@ -1,0 +1,52 @@
+{
+  "wallpaper": "https://wp.upx8.com/api.php",
+  "spider": "",
+  "sites": [
+    {
+      "key": "netflixgc",
+      "name": "奈飞工厂",
+      "type": 2,
+      "api": "http://192.168.5.19:8000/api",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 2
+    }
+  ],
+  "parses": [
+    {
+      "name": "自动解析",
+      "type": 2,
+      "url": "Sequence"
+    },
+    {
+      "name": "综合解析",
+      "type": 1,
+      "url": "https://jx.xmlyapi.com/?url="
+    },
+    {
+      "name": "B站解析",
+      "type": 1,
+      "url": "https://jx.xmflv.com/?url="
+    }
+  ],
+  "lives": [
+    {
+      "name": "BMCH",
+      "type": "0",
+      "pass": true,
+      "url": "https://gh.halonice.com/https:/raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u",
+      "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+      "logo": "https://epg.v1.mk/logo/{name}.png"
+    },
+    {
+      "name": "Tianmu",
+      "type": "0",
+      "pass": true,
+      "url": "https://ghfile.geekertao.top/https://raw.githubusercontent.com/TianmuTNT/iptv/main/iptv.txt",
+      "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+      "logo": "https://epg.v1.mk/logo/{name}.png"
+    }
+  ],
+  "flags": ["youku", "qq", "iqiyi", "xigua", "m1905", "pptv", "wasu", "bilibili"]
+}
