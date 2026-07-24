@@ -1,0 +1,22 @@
+{
+  "wallpaper": "https://wp.upx8.com/api.php",
+  "sites": [
+    {
+      "key": "netflixgc",
+      "name": "奈飞工厂",
+      "type": 1,
+      "api": "https://tvboxyuan.gd.ddnsto.com",
+      "searchable": 1,
+      "changeable": 1
+    }
+  ],
+  "lives": [
+    {
+      "name": "BMCH",
+      "type": "0",
+      "pass": true,
+      "url": "https://gh.halonice.com/https:/raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u"
+    }
+  ]
+}
+
