@@ -1,0 +1,12 @@
+{
+  "wallpaper": "https://wp.upx8.com/api.php",
+  "sites": [
+    {
+      "key": "netflixgc",
+      "name": "奈飞工厂",
+      "type": 1,
+      "api": "https://otherwise-sign-moreover-academic.trycloudflare.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1
+    }
+  
