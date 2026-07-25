@@ -4,7 +4,7 @@
       "key": "kekedy",
       "name": "可可影视",
       "type": 1,
-      "api": "http://192.168.5.19:8993/api.php/provide/vod",
+      "api": "http://localhost:8993/api.php/provide/vod",
       "header": "{\"Referer\":\"https://103.51.147.112:51120/\"}",
       "searchable": 1,
       "changeable": 1
