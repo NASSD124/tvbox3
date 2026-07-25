@@ -1,0 +1,11 @@
+{
+  "sites": [
+    {
+      "name": "可可影视",
+      "api": "http://192.168.5.19:8993/api.php/provide/vod",
+      "type": 1,
+      "searchable": 1,
+      "filterable": 1
+    }
+  ]
+}
