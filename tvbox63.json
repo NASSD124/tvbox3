@@ -1,0 +1,12 @@
+{
+  "sites": [
+    {
+      "key": "kekemv",
+      "name": "可可影视",
+      "type": 3,
+      "api": "https://tvbox125.gd.ddnsto.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1
+    }
+  ]
+}
