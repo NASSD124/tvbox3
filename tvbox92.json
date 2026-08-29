@@ -1,11 +1,10 @@
 {
     "spider": "https://gitee.com/starlinkapi/jar/raw/master/jar/spider.jar",
     "wallpaper": "https://api.mmp.cc/api/pcwallpaper?category=cartoon&type=jpg",
-    "warningText": "本接口服务器于本月28号到期关闭，为了不影响你的使用，请前往 api.starlink.fan，重新获取影视仓接口地址。",
     "sites": [
         {
             "key": "豆瓣",
-            "name": "请前往api.starlink.fan重新获取接口地址",
+            "name": "douban",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
