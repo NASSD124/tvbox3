@@ -7,7 +7,7 @@
       "type": 1,
       "api": "http://cmsyun2.qijiyun.vip/api.php/provide/vod/"
     },
-    {
+   {
       "key": "橘皮",
       "name": "橘皮影视",
       "type": 3,
@@ -31,9 +31,9 @@
       "type": 3,
       "api": "csp_AppGet",
       "searchable": 1,
+      "jar": "https://nassd124.github.io/tvbox3/tvbox5.jar",
       "ext": {
         "url": "https://app.omofun1.top",
-        "extra": "https://nassd124.github.io/tvbox3/tvbox5.jar",
         "dataKey": "66dc309cbeeca454",
         "dataIv": "66dc309cbeeca454"
       }
