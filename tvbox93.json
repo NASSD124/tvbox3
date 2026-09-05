@@ -1,0 +1,21 @@
+{
+  "spider": "https://nassd124.github.io/tvbox3/tvbox6.jar",
+  "sites": [
+    {
+      "key": "csp_XYQHiker",
+      "name": "可可影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ],
+  "lives": [],
+  "flags": [],
+  "parses": [],
+  "playurl": "",
+  "site": "",
+  "wallpaper": "",
+  "ad": ""
+}
