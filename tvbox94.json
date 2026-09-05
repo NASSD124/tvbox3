@@ -1,0 +1,30 @@
+{
+  "sites": [
+    {
+      "key": "kekedy",
+      "name": "可可影视",
+      "type": 3,
+      "api": "com.kekedy.KekedySpider",
+      "jar": "https://nassd124.github.io/tvbox3/tvbox7.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    }
+  ],
+  "parses": [],
+  "lives": [],
+  "doh": [
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query"
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query"
+    }
+  ],
+  "ads": [],
+  "wallpaper": "",
+  "sites_type": 0
+}
